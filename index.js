@@ -31,6 +31,11 @@ execSync(`npm init -y`, {
     stdio: "inherit"
 })
 
+execSync(`npm install express mongoose cors dotenv`, {
+    cwd: path.join(root,"backend"),
+    stdio: "inherit"
+})
+
 
 fs.writeFileSync(path.join(root, "backend", "server.js"), 
 `
