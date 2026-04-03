@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Abhishek Kumar",
+  "license": "MIT",
    "description": "CLI to generate MERN stack project"
 }
