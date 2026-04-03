@@ -1,4 +1,4 @@
-⚡ Scaffold a full-stack MERN app with Next.js, Express, MongoDB & JWT auth in one command.
+# 🚀 create-mern-stack
 
 A powerful CLI to quickly scaffold a full-stack MERN application with a production-ready backend structure and basic authentication setup.
 
