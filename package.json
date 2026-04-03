@@ -1,8 +1,8 @@
 {
-  "name": "mernify",
+  "name": "create-mern-stack",
   "version": "1.0.0",
-    "bin": {
-    "create-mern-stack": "./index.js"
+  "bin": {
+    "create-mern-stack": "./bin/index.js"
   },
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   "keywords": [],
   "author": "Abhishek Kumar",
   "license": "MIT",
-   "description": "CLI to generate MERN stack project"
+  "description": "CLI to generate MERN stack project"
 }
