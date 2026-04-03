@@ -163,7 +163,7 @@ const connectDB = async () => {
 );
 
 fs.writeFileSync(
-  path.join(backendPath, ".env"),
+  path.join(backendpath, ".env"),
   `
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/mydb
