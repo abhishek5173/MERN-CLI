@@ -21,4 +21,4 @@ A powerful CLI to quickly scaffold a full-stack MERN application with a producti
 ### Using npx (recommended)
 
 ```bash
-npx create-mern-stack my-app
+npx mernify my-app
